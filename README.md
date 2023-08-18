@@ -18,12 +18,14 @@ To interact with WardBot, you can run the chatbot script and have conversations 
 
 1. Install Python (if not already installed).
 2. Open a terminal and navigate to the repository's directory.
-3. Run the following command to start the chatbot: 'python chatbot.py'
-4. Begin your conversation by typing messages and receiving responses from WardBot.
+3. Run the following command to start the chatbot:
+   ```bash
+   python chatbot.py
+6. Begin your conversation by typing messages and receiving responses from WardBot.
 
 ## Customization
 
-You can customize WardBot's responses, add new intents, or modify existing ones by editing the intents.json file (and then running '''bash python training.py). Feel free to make the chatbot reflect your preferred style and personality.
+You can customize WardBot's responses, add new intents, or modify existing ones by editing the intents.json file (and then running 'python training.py'). Feel free to make the chatbot reflect your preferred style and personality.
 
 ## Feedback
 
