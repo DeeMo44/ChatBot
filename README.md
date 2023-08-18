@@ -23,7 +23,7 @@ To interact with WardBot, you can run the chatbot script and have conversations 
 
 ## Customization
 
-You can customize WardBot's responses, add new intents, or modify existing ones by editing the intents.json file (and then running 'python training.py'). Feel free to make the chatbot reflect your preferred style and personality.
+You can customize WardBot's responses, add new intents, or modify existing ones by editing the intents.json file (and then running '''bash python training.py). Feel free to make the chatbot reflect your preferred style and personality.
 
 ## Feedback
 
